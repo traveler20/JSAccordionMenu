@@ -1,1 +1,3 @@
-#JS Tutorial for class
+JavaScript によるアコーディオンメニュー
+
+クラスとインスタンスについての学習に。
